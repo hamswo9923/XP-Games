@@ -3,12 +3,12 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebas
 import { getFirestore, collection, addDoc, getDocs, query, orderBy, limit, doc, getDoc, setDoc, updateDoc, startAfter } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAyatGz9z_EYXBAFrH2wrnX8snbDn1ESJk",
+    apiKey: "Null",
     authDomain: "schoolrpg-leaderboard.firebaseapp.com",
     projectId: "schoolrpg-leaderboard",
     storageBucket: "schoolrpg-leaderboard.firebasestorage.app",
     messagingSenderId: "942057524924",
-    appId: "1:942057524924:web:4720f94710edd210ec8ab9",
+    appId: "null",
     measurementId: "G-MR13BVCGZW"
 };
 
